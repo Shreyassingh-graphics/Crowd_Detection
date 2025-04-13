@@ -1,0 +1,13 @@
+train: /Users/shreyassingh/Desktop/Crowd_detection/Crowd_Detection_in_movie_scenes/train/images
+val: /Users/shreyassingh/Desktop/Crowd_detection/Crowd_Detection_in_movie_scenes/valid/images
+test: /Users/shreyassingh/Desktop/Crowd_detection/Crowd_Detection_in_movie_scenes/test/images
+
+nc: 1
+names: ['person']
+
+roboflow:
+  workspace: shreyass-stuff
+  project: crowd_detection_in_movie_scenes
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/shreyass-stuff/crowd_detection_in_movie_scenes/dataset/1
