@@ -1,5 +1,3 @@
-Absolutely, Shreyas! Here's a **complete and clean single `README.md` file** for your `Crowd_Detection` project — includes project overview, usage instructions, structure, results, and more. Perfect for submission or uploading to Drive/GitHub.
-
 ---
 
 ### ✅ Final `README.md` for `Crowd_Detection`
