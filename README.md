@@ -1,8 +1,3 @@
----
-
-### ✅ Final `README.md` for `Crowd_Detection`
-
-```markdown
 # Crowd_Detection
 
 ## Author
