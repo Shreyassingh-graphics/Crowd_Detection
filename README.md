@@ -2,7 +2,7 @@
 
 ## Author
 **Name:** Shreyas Singh  
-**Roll Number:** B220032CS  
+**Email:** shreyassing7484@gmail.com / b220032@nitsikkim.ac.in  
 
 ---
 
@@ -129,6 +129,7 @@ python detect.py \
 
 Predicted videos/images are saved in:
 
+
 ```
 yolov5/runs/detect/crowd_detect/
 ```
@@ -138,6 +139,8 @@ You can also copy them to the `result_videos/` folder if needed.
 ---
 
 ## Training Results
+
+The Confidence Threshold I used for detection is : 0.25 
 
 - Training duration: ~2.77 hours on CPU
 - Epochs: 50
@@ -179,5 +182,3 @@ It can be extended for real-time analysis, safety surveillance, or public space 
 ```
 
 ---
-
-Let me know if you'd like me to generate this as a downloadable `.md` file or convert it into PDF/Word for submission.
